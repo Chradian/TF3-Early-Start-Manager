@@ -35,6 +35,14 @@ TF3 Early Start Manager is a community tool for players who want to begin Transp
 - No separate Python installation required
 - Integrated logging and cache system
 
+## A Note to Modders
+
+TF3 Early Start Manager is also intended to encourage more historically accurate content for the early railway era.
+Modders are encouraged to use **real introduction and retirement years**, including dates well before 1900, instead of moving early vehicles to 1900 simply to fit the default TF3 timeline.
+New content and ports of suitable Transport Fever / Transport Fever 2 mods are especially welcome, including early locomotives, coaches, horse-drawn transport, stations, depots and infrastructure.
+Where practical, vehicle data such as availability, power, weight, tractive effort and top speed should reflect the real-world prototype.
+The goal is to make the railway era before 1900 a richer part of Transport Fever 3.
+
 ## Download
 
 Download the latest packaged Windows version from the **Releases** section of this repository.
@@ -302,6 +310,14 @@ Der Manager übernimmt den notwendigen Patch, Compatibility Overrides und die An
 - Portable Windows-Anwendung
 - Keine separate Python-Installation erforderlich
 - Integriertes Log- und Cache-System
+
+## Hinweis für Modder
+
+Der TF3 Early Start Manager soll auch dazu beitragen, mehr historisch passende Inhalte für die frühe Eisenbahnepoche zu ermöglichen.
+Modder sind ausdrücklich eingeladen, **reale Einführungs- und Ausmusterungsjahre zu verwenden**, auch deutlich vor 1900, statt frühe Fahrzeuge nur für die Standard-Timeline von TF3 künstlich auf 1900 zu verschieben.
+Besonders willkommen sind neue Inhalte und Portierungen geeigneter Transport-Fever-/Transport-Fever-2-Mods, etwa frühe Lokomotiven und Wagen, Pferdefuhrwerke, Bahnhöfe, Depots und Infrastruktur.
+Wenn sinnvoll, sollten auch Daten wie Leistung, Gewicht, Zugkraft und Höchstgeschwindigkeit am realen Vorbild orientiert sein.
+Ziel ist es, die Eisenbahnepoche vor 1900 zu einem umfangreicheren Teil von Transport Fever 3 zu machen.
 
 ## Download
 
