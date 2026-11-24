@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+
+# PyInstaller
+build/
+dist/
+
+# TF3 Early Start Manager runtime data
+cache/
+logs/
+generated_compatibility_mod/
+
+# Local IDE
+.vscode/
+.idea/
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# macOS
+.DS_Store
