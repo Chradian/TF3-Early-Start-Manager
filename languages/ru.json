@@ -1,0 +1,254 @@
+{
+  "meta": {
+    "language_code": "ru",
+    "language_name": "Русский"
+  },
+  "app": {
+    "subtitle": "Совместимость раннего старта, доступность ресурсов и редактор временной шкалы",
+    "version": "Версия {version}"
+  },
+  "actions": {
+    "apply_selected": "Применить to к выбранным",
+    "browse": "Обзор...",
+    "cancel": "Отмена",
+    "exit": "Выход",
+    "expand_all": "Развернуть всё",
+    "collapse_all": "Свернуть всё",
+    "install_patch": "Установить 1850 Patch",
+    "install_update_compatibility": "Установить / Обновить Compatibility Mod",
+    "reset_selected": "Сбросить к выбранным",
+    "revert_patch": "Откатить 1850 Patch",
+    "save": "Сохранить",
+    "scan_content": "Сканировать Содержимое",
+    "settings": "Настройки",
+    "update_compatibility": "Обновить Compatibility Mod",
+    "close": "Закрыть",
+    "easy_mode": "Простой режим",
+    "advanced_mode": "Расширенный режим"
+  },
+  "content": {
+    "no_description": "Описание мода отсутствует.",
+    "vanilla_description": "Содержимое Vanilla\nЧасть базовой игры Transport Fever 3."
+  },
+  "filters": {
+    "force_rescan": "Принудительное полное повторное сканирование",
+    "only_changes": "Только изменения",
+    "original_1850_1900": "Исходное 1850–1900",
+    "show_all": "Показать всё"
+  },
+  "game": {
+    "refresh_status": "Обновить статус",
+    "start": "Запустить игру"
+  },
+  "language": {
+    "current": "Язык: {language}",
+    "name": "Русский",
+    "restart_title": "Перезапуск менеджера",
+    "restart_manual": "Язык изменён. Перезапустите TF3 Early Start Manager.",
+    "restarting": "Перезапуск TF3 Early Start Manager…",
+    "applying": "Применение языка…"
+  },
+  "mode": {
+    "advanced": "расширенный режим",
+    "easy": "простой режим"
+  },
+  "placeholders": {
+    "mod_description": "Mod описание",
+    "search_resources": "Поиск ресурсов..."
+  },
+  "preview": {
+    "analysis_only": "Только анализ",
+    "current": "Текущее",
+    "hover_hint": "Наведите курсор на ресурс, чтобы просмотреть подробности.",
+    "modifier": "Модификатор",
+    "no_preview": "Нет предпросмотра",
+    "original": "Исходное",
+    "preview_source": "Предпросмотр источник",
+    "primary": "Основной",
+    "related_resources": "Связанные ресурсов",
+    "source": "Источник",
+    "type": "Тип",
+    "none_detected": "Ничего не обнаружено",
+    "internal_resource": "⚙ Внутренний ресурс",
+    "required_resource": "🔒 Обязательный Early Запустить ресурс",
+    "vehicle_role": "Роль транспорта: {role}",
+    "power_type": "Тип тяги type: {power}",
+    "construction_templates": "Шаблоны сооружений: {timeline}"
+  },
+  "resource_tree": {
+    "all": "Все Ресурсы",
+    "assets": "Assets",
+    "buildings": "Здания",
+    "depots": "Депо",
+    "industries": "Промышленность",
+    "infrastructure": "Infrastructure",
+    "stations": "Станции",
+    "vehicle": "Транспорт",
+    "warehouses": "Склады"
+  },
+  "sections": {
+    "cache": "Кэш",
+    "early_start": "Early Запустить 1850",
+    "getting_started": "Начало работы",
+    "resources": "Ресурсы",
+    "sources": "Источники:",
+    "log": "Журнал"
+  },
+  "settings": {
+    "clear_scan_cache": "Очистить Сканировать Кэш",
+    "clear_thumbnail_cache": "Очистить Thumbnail Кэш",
+    "export_diagnostics": "Export Diagnostics",
+    "language": "Язык:",
+    "open_log": "Открыть Журнал",
+    "open_log_folder": "Открыть Журнал Folder",
+    "path_check": "Path проверка:",
+    "start_screen": "Запустить screen:",
+    "tf3_installation": "TF3 установка:",
+    "clear_all_caches": "Очистить Все Caches"
+  },
+  "sources": {
+    "all": "Все",
+    "local": "Local",
+    "modio": "Mod.IO",
+    "vanilla": "Vanilla"
+  },
+  "status": {
+    "checking_content": "Checking content...",
+    "content_up_to_date": "✓ Содержимое up to date",
+    "resources_count": "{count} ресурсов",
+    "resources_loaded_cache": "{count} ресурсов loaded from cache",
+    "visible_resources": "{visible} / {total} ресурсов",
+    "tf3_not_configured": "⚠ TF3 not настроено",
+    "patch_revalidation_required": "⚠ TF3 patch revalidation required",
+    "patch_missing": "⚠ 1850 patch отсутствует",
+    "compatibility_update_required": "⚠ Compatibility Mod требует обновления update",
+    "changes_detected": "⚠ Изменения не обнаружено",
+    "invalid_tf3_installation": "Invalid TF3 installation"
+  },
+  "table": {
+    "status": "статус",
+    "name": "Имя",
+    "source": "Источник",
+    "type": "Тип",
+    "original_from": "Начальный год Vanilla",
+    "new_from": "Новый начальный год",
+    "original_to": "Конечный год Vanilla",
+    "new_to": "Новый конечный год"
+  },
+  "timeline": {
+    "from": "С",
+    "until": "До"
+  },
+  "tooltips": {
+    "expand_all_resources": "Развернуть всё ресурс categories",
+    "install_patch": "Установить the complete Early Запустить 1850 baseline, GUI patch and Compatibility Mod",
+    "install_update_compatibility": "Обновить the Compatibility Mod with доступность изменения настроено in расширенный режим",
+    "revert_patch": "Restore the Vanilla start-year configuration and remove the Compatibility Mod",
+    "update_compatibility": "Regenerate the Compatibility Mod with the current доступность изменения",
+    "collapse_all_resources": "Свернуть всё ресурс categories",
+    "required_1850": "Обязательный for the 1850 baseline",
+    "source_status": "Quick startup проверка for TF3 patches and установлен Mod.IO/local mod изменения",
+    "show_all_resources": "Показать technical, group, support and normally hidden ресурсов.",
+    "select_resource_file": "Выберите the concrete ресурс файл",
+    "select_archive": "Выберите the containing ZIP/archive",
+    "patch_missing": "TF3 is currently using the Vanilla 1900 start year. A game update may have restored gui.zip.",
+    "stale_overrides": "{count} установлен override(s) no longer match scanned ресурсов. Run Установить / Обновить Compatibility Mod to remove stale entries.",
+    "changed_sources": "Изменено sources: {sources}. Run Сканировать Содержимое for an incremental update.",
+    "no_source_changes": "Нет быстрая источник-level изменения не обнаружено since the last completed content scan"
+  },
+  "health": {
+    "backup_available": "✓ Backup: доступно",
+    "backup_missing": "○ Backup: not created",
+    "compat_installed": "✓ Compatibility mod: установлен ({count} overrides)",
+    "compat_missing": "○ Compatibility mod: not установлен",
+    "patch_changed": "⚠ Запустить-year patch: TF3 файлы changed",
+    "patch_rebuild": "⚠ TF3 update: rebuild 1850 patch",
+    "patch_revalidate": "⚠ TF3 update: patch intact, revalidate",
+    "patch_revalidation": "⚠ Запустить-year patch: revalidation required",
+    "patch_unavailable": "! Запустить-year patch: unavailable",
+    "patch_unknown": "! Запустить-year patch: unknown",
+    "patch_vanilla": "○ Запустить-year patch: Vanilla 1900",
+    "patch_verified": "✓ Запустить-year patch: 1850 verified",
+    "profile_missing": "○ 1850 совместимость: отсутствует/incomplete",
+    "profile_ready": "✓ 1850 совместимость: AI traffic + constructions готова",
+    "ready": "READY — activate Compatibility mod manually in TF3",
+    "game_not_detected": "✕ Transport Fever 3: not detected",
+    "unavailable": "○ unavailable",
+    "not_ready": "NOT READY",
+    "vanilla": "VANILLA",
+    "incomplete_custom": "INCOMPLETE / CUSTOM",
+    "game_detected": "✓ Transport Fever 3 ({distribution}): {path}"
+  },
+  "dialogs": {
+    "invalid_path_title": "Недопустимый путь",
+    "invalid_tf3_path": "Выберите корректную установку Transport Fever 3.",
+    "start_game_title": "Запустить игру",
+    "scan_title": "Сканировать",
+    "configure_tf3_first": "Настройте the TF3 установка in Настройки сначала.",
+    "timeline_title": "Временная шкала",
+    "select_timeline_bounds": "Выберите С and/or До сначала.",
+    "patch_title": "1850 Patch",
+    "open_file_location_title": "Открыть файл location",
+    "log_title": "Журнал",
+    "compatibility_title": "Compatibility Mod",
+    "compatibility_installed": "Compatibility mod установлен/updated. Activate it manually in TF3 for the desired game/preset.",
+    "install_update_failed": "Установить / Обновить не удалось:\n\n{error}",
+    "open_source_folder_title": "Открыть источник папку",
+    "content_scan_title": "Содержимое Сканировать",
+    "invalid_timeline_bounds": "End year must be unlimited or greater than or equal to start year.",
+    "patch_verification_title": "TF3 Patch Verification",
+    "patch_verification_safety": "The manager will never restore an old backup over updated TF3 files. Use Install 1850 Patch to revalidate the current version.",
+    "patch_installed": "1850 patch installed. Activate TF3 Early Start Compatibility manually for the game/preset."
+  },
+  "scan": {
+    "preparing": "Подготовка сканирования содержимого...",
+    "initial_progress": "0 / 0 ZIPs · Кэш 0 · Rescanned 0 · 0 ресурсов",
+    "window_title": "Сканирование TF3 Содержимое",
+    "cancelling": "Отмена...",
+    "scanning": "Сканирование: {domain}",
+    "finishing": "Завершение",
+    "progress": "{current} / {total} ZIPs · Кэш {cache_hits} · Rescanned {rescanned} · {found} ресурсов",
+    "preparing_browser": "Подготовка Resource Browser..."
+  },
+  "context": {
+    "open_file_location": "Открыть файл location",
+    "open_source_folder": "Открыть источник папку",
+    "copy_file_path": "Копировать файл путь",
+    "copy_resource_id": "Копировать ресурс ID"
+  },
+  "guide": {
+    "html": "<b>1. Установить патч</b><br>Устанавливает патч начального года 1850 и обновляет TF3 Early Start Compatibility.<br><br><b>2. Запустить игру</b><br>Запускает Transport Fever 3.<br><br><b>3. Включить мод совместимости</b><br>Включите <b>TF3 Early Start Compatibility</b> для каждой игры или набора настроек, использующих Early Start.<br><br><b>Исторические даты, когда это возможно</b><br>Каждый автор мода может использовать реальные исторические годы доступности. Транспорт, уже настроенный для Era A, остаётся без изменений и естественным образом доступен в игре с 1850 года. Используйте <b>расширенный режим</b>, если требуется настроить отдельные транспортные средства, сооружения или моды."
+  },
+  "cache": {
+    "status": "Кэш сканирования: {archives} ZIP / {resources} ресурсов / {scan_kb} КБ\nКэш миниатюр: {thumbnails} файлов / {thumb_mb} МБ"
+  },
+  "categories": {
+    "vehicle": "Транспорт",
+    "depots": "Депо",
+    "stations": "Станции",
+    "warehouses": "Склады",
+    "infrastructure": "Инфраструктура",
+    "buildings": "Здания",
+    "industries": "Промышленность",
+    "assets": "Объекты",
+    "air": "Авиация",
+    "airships": "Дирижабли",
+    "planes": "Самолёты",
+    "helicopters": "Вертолёты",
+    "rail": "Железная дорога",
+    "trains": "Поезда",
+    "steam": "Паровые",
+    "diesel": "Дизель",
+    "electric": "Электрические",
+    "wagons": "Вагоны",
+    "passenger": "Пассажирские",
+    "cargo": "Грузовые",
+    "technical": "Технические",
+    "road": "Автодорога",
+    "buses": "Автобусы",
+    "trucks": "Грузовики",
+    "tram": "Трамвай",
+    "water": "Водный транспорт",
+    "other": "Прочее"
+  }
+}

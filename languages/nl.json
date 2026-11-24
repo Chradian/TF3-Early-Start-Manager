@@ -1,0 +1,254 @@
+{
+  "meta": {
+    "language_code": "nl",
+    "language_name": "Nederlands"
+  },
+  "app": {
+    "subtitle": "Compatibiliteit voor vroege start, beschikbaarheid van bronnen en tijdlijneditor",
+    "version": "Versie {version}"
+  },
+  "actions": {
+    "apply_selected": "Toepassen to geselecteerde",
+    "browse": "Bladeren...",
+    "cancel": "Annuleren",
+    "exit": "Afsluiten",
+    "expand_all": "Uitvouwen alles",
+    "collapse_all": "Invouwen alles",
+    "install_patch": "Installeren 1850 Patch",
+    "install_update_compatibility": "Installeren / Bijwerken Compatibility Mod",
+    "reset_selected": "Herstellen geselecteerde",
+    "revert_patch": "Terugdraaien 1850 Patch",
+    "save": "Opslaan",
+    "scan_content": "Scannen Inhoud",
+    "settings": "Instellingen",
+    "update_compatibility": "Bijwerken Compatibility Mod",
+    "close": "Sluiten",
+    "easy_mode": "Eenvoudige modus",
+    "advanced_mode": "Geavanceerde modus"
+  },
+  "content": {
+    "no_description": "Geen modbeschrijving beschikbaar.",
+    "vanilla_description": "Vanilla-inhoud\nOnderdeel van het basisspel Transport Fever 3."
+  },
+  "filters": {
+    "force_rescan": "Volledige volledige herscan",
+    "only_changes": "Alleen wijzigingen",
+    "original_1850_1900": "Origineel 1850–1900",
+    "show_all": "Tonen alles"
+  },
+  "game": {
+    "refresh_status": "Vernieuwen status",
+    "start": "Start spel"
+  },
+  "language": {
+    "current": "Taal: {language}",
+    "name": "Nederlands",
+    "restart_title": "Manager opnieuw starten",
+    "restart_manual": "De taal is gewijzigd. Start TF3 Early Start Manager opnieuw.",
+    "restarting": "TF3 Early Start Manager wordt opnieuw gestart…",
+    "applying": "Taal toepassen…"
+  },
+  "mode": {
+    "advanced": "geavanceerde modus",
+    "easy": "eenvoudige modus"
+  },
+  "placeholders": {
+    "mod_description": "Mod beschrijving",
+    "search_resources": "Zoeken bronnen..."
+  },
+  "preview": {
+    "analysis_only": "Alleen analyse",
+    "current": "Huidig",
+    "hover_hint": "Beweeg de muis over een bron om details te bekijken.",
+    "modifier": "Modifier",
+    "no_preview": "Geen voorbeeld",
+    "original": "Origineel",
+    "preview_source": "Voorbeeld bron",
+    "primary": "Primair",
+    "related_resources": "Gerelateerde bronnen",
+    "source": "Bron",
+    "type": "Type",
+    "none_detected": "Geen gedetecteerd",
+    "internal_resource": "⚙ Interne bron",
+    "required_resource": "🔒 Vereiste Early Start bron",
+    "vehicle_role": "Voertuigrol: {role}",
+    "power_type": "Aandrijving type: {power}",
+    "construction_templates": "Constructiesjablonen: {timeline}"
+  },
+  "resource_tree": {
+    "all": "Alle Bronnen",
+    "assets": "Assets",
+    "buildings": "Gebouwen",
+    "depots": "Depots",
+    "industries": "Industrieën",
+    "infrastructure": "Infrastructure",
+    "stations": "Stations",
+    "vehicle": "Voertuigen",
+    "warehouses": "Magazijnen"
+  },
+  "sections": {
+    "cache": "Cache",
+    "early_start": "Early Start 1850",
+    "getting_started": "Aan de slag",
+    "resources": "Bronnen",
+    "sources": "Bronnen:",
+    "log": "Logboek"
+  },
+  "settings": {
+    "clear_scan_cache": "Wissen Scannen Cache",
+    "clear_thumbnail_cache": "Wissen Thumbnail Cache",
+    "export_diagnostics": "Export Diagnostics",
+    "language": "Taal:",
+    "open_log": "Openen Logboek",
+    "open_log_folder": "Openen Logboek Folder",
+    "path_check": "Path controle:",
+    "start_screen": "Start screen:",
+    "tf3_installation": "TF3 installatie:",
+    "clear_all_caches": "Wissen Alle Caches"
+  },
+  "sources": {
+    "all": "Alle",
+    "local": "Local",
+    "modio": "Mod.IO",
+    "vanilla": "Vanilla"
+  },
+  "status": {
+    "checking_content": "Checking content...",
+    "content_up_to_date": "✓ Inhoud up to date",
+    "resources_count": "{count} bronnen",
+    "resources_loaded_cache": "{count} bronnen loaded from cache",
+    "visible_resources": "{visible} / {total} bronnen",
+    "tf3_not_configured": "⚠ TF3 not geconfigureerd",
+    "patch_revalidation_required": "⚠ TF3 patch revalidation required",
+    "patch_missing": "⚠ 1850 patch ontbreekt",
+    "compatibility_update_required": "⚠ Compatibility Mod moet worden bijgewerkt update",
+    "changes_detected": "⚠ Wijzigingen gedetecteerd",
+    "invalid_tf3_installation": "Invalid TF3 installation"
+  },
+  "table": {
+    "status": "status",
+    "name": "Naam",
+    "source": "Bron",
+    "type": "Type",
+    "original_from": "Vanilla-startjaar",
+    "new_from": "Nieuw startjaar",
+    "original_to": "Vanilla-eindjaar",
+    "new_to": "Nieuw eindjaar"
+  },
+  "timeline": {
+    "from": "Van",
+    "until": "Tot"
+  },
+  "tooltips": {
+    "expand_all_resources": "Uitvouwen alles bron categories",
+    "install_patch": "Installeren the complete Early Start 1850 baseline, GUI patch and Compatibility Mod",
+    "install_update_compatibility": "Bijwerken the Compatibility Mod with beschikbaarheid wijzigingen geconfigureerd in geavanceerde modus",
+    "revert_patch": "Restore the Vanilla start-year configuration and remove the Compatibility Mod",
+    "update_compatibility": "Regenerate the Compatibility Mod with the current beschikbaarheid wijzigingen",
+    "collapse_all_resources": "Invouwen alles bron categories",
+    "required_1850": "Vereiste for the 1850 baseline",
+    "source_status": "Quick startup controle for TF3 patches and geïnstalleerd Mod.IO/local mod wijzigingen",
+    "show_all_resources": "Tonen technical, group, support and normally hidden bronnen.",
+    "select_resource_file": "Selecteer the concrete bron bestand",
+    "select_archive": "Selecteer the containing ZIP/archive",
+    "patch_missing": "TF3 is currently using the Vanilla 1900 start year. A game update may have restored gui.zip.",
+    "stale_overrides": "{count} geïnstalleerd override(s) no longer match scanned bronnen. Run Installeren / Bijwerken Compatibility Mod to remove stale entries.",
+    "changed_sources": "Gewijzigd sources: {sources}. Run Scannen Inhoud for an incremental update.",
+    "no_source_changes": "Geen snelle bron-level wijzigingen gedetecteerd since the last completed content scan"
+  },
+  "health": {
+    "backup_available": "✓ Backup: beschikbaar",
+    "backup_missing": "○ Backup: not created",
+    "compat_installed": "✓ Compatibility mod: geïnstalleerd ({count} overrides)",
+    "compat_missing": "○ Compatibility mod: not geïnstalleerd",
+    "patch_changed": "⚠ Start-year patch: TF3 bestanden changed",
+    "patch_rebuild": "⚠ TF3 update: rebuild 1850 patch",
+    "patch_revalidate": "⚠ TF3 update: patch intact, revalidate",
+    "patch_revalidation": "⚠ Start-year patch: revalidation required",
+    "patch_unavailable": "! Start-year patch: unavailable",
+    "patch_unknown": "! Start-year patch: unknown",
+    "patch_vanilla": "○ Start-year patch: Vanilla 1900",
+    "patch_verified": "✓ Start-year patch: 1850 verified",
+    "profile_missing": "○ 1850 compatibiliteit: ontbreekt/incomplete",
+    "profile_ready": "✓ 1850 compatibiliteit: AI traffic + constructions gereed",
+    "ready": "READY — activate Compatibility mod manually in TF3",
+    "game_not_detected": "✕ Transport Fever 3: not detected",
+    "unavailable": "○ unavailable",
+    "not_ready": "NOT READY",
+    "vanilla": "VANILLA",
+    "incomplete_custom": "INCOMPLETE / CUSTOM",
+    "game_detected": "✓ Transport Fever 3 ({distribution}): {path}"
+  },
+  "dialogs": {
+    "invalid_path_title": "Ongeldig pad",
+    "invalid_tf3_path": "Selecteer een geldige installatie van Transport Fever 3.",
+    "start_game_title": "Start spel",
+    "scan_title": "Scannen",
+    "configure_tf3_first": "Configureer the TF3 installatie in Instellingen eerst.",
+    "timeline_title": "Tijdlijn",
+    "select_timeline_bounds": "Selecteer Van and/or Tot eerst.",
+    "patch_title": "1850 Patch",
+    "open_file_location_title": "Openen bestand location",
+    "log_title": "Logboek",
+    "compatibility_title": "Compatibility Mod",
+    "compatibility_installed": "Compatibility mod geïnstalleerd/updated. Activate it manually in TF3 for the desired game/preset.",
+    "install_update_failed": "Installeren / Bijwerken mislukt:\n\n{error}",
+    "open_source_folder_title": "Openen bron map",
+    "content_scan_title": "Inhoud Scannen",
+    "invalid_timeline_bounds": "End year must be unlimited or greater than or equal to start year.",
+    "patch_verification_title": "TF3 Patch Verification",
+    "patch_verification_safety": "The manager will never restore an old backup over updated TF3 files. Use Install 1850 Patch to revalidate the current version.",
+    "patch_installed": "1850 patch installed. Activate TF3 Early Start Compatibility manually for the game/preset."
+  },
+  "scan": {
+    "preparing": "Inhoudsscan voorbereiden...",
+    "initial_progress": "0 / 0 ZIPs · Cache 0 · Rescanned 0 · 0 bronnen",
+    "window_title": "Scannen TF3 Inhoud",
+    "cancelling": "Annuleren...",
+    "scanning": "Scannen: {domain}",
+    "finishing": "Afronden",
+    "progress": "{current} / {total} ZIPs · Cache {cache_hits} · Rescanned {rescanned} · {found} bronnen",
+    "preparing_browser": "Voorbereiden Resource Browser..."
+  },
+  "context": {
+    "open_file_location": "Openen bestand location",
+    "open_source_folder": "Openen bron map",
+    "copy_file_path": "Kopiëren bestand pad",
+    "copy_resource_id": "Kopiëren bron ID"
+  },
+  "guide": {
+    "html": "<b>1. Patch installeren</b><br>Installeert de startjaarpatch voor 1850 en werkt TF3 Early Start Compatibility bij.<br><br><b>2. Spel starten</b><br>Start Transport Fever 3.<br><br><b>3. Compatibiliteitsmod activeren</b><br>Activeer <b>TF3 Early Start Compatibility</b> voor elk spel of elke preset die Early Start gebruikt.<br><br><b>Historische datums waar mogelijk</b><br>Elke modauteur kan echte historische beschikbaarheidsjaren gebruiken. Voertuigen die al voor Era A zijn ingesteld, blijven ongewijzigd en zijn vanzelf beschikbaar in een spel dat in 1850 begint. Gebruik de <b>geavanceerde modus</b> wanneer afzonderlijke voertuigen, constructies of mods moeten worden aangepast."
+  },
+  "cache": {
+    "status": "Scancache: {archives} ZIP-bestanden / {resources} bronnen / {scan_kb} KB\nThumbnailcache: {thumbnails} bestanden / {thumb_mb} MB"
+  },
+  "categories": {
+    "vehicle": "Voertuigen",
+    "depots": "Depots",
+    "stations": "Stations",
+    "warehouses": "Magazijnen",
+    "infrastructure": "Infrastructuur",
+    "buildings": "Gebouwen",
+    "industries": "Industrieën",
+    "assets": "Objecten",
+    "air": "Lucht",
+    "airships": "Luchtschepen",
+    "planes": "Vliegtuigen",
+    "helicopters": "Helikopters",
+    "rail": "Spoor",
+    "trains": "Treinen",
+    "steam": "Stoom",
+    "diesel": "Diesel",
+    "electric": "Elektrisch",
+    "wagons": "Wagons",
+    "passenger": "Passagiers",
+    "cargo": "Vracht",
+    "technical": "Technisch",
+    "road": "Weg",
+    "buses": "Bussen",
+    "trucks": "Vrachtwagens",
+    "tram": "Tram",
+    "water": "Water",
+    "other": "Overig"
+  }
+}

@@ -1,0 +1,254 @@
+{
+  "meta": {
+    "language_code": "es",
+    "language_name": "Español"
+  },
+  "app": {
+    "subtitle": "Compatibilidad de inicio temprano, disponibilidad de recursos y editor de cronología",
+    "version": "Versión {version}"
+  },
+  "actions": {
+    "apply_selected": "Aplicar to seleccionados",
+    "browse": "Examinar...",
+    "cancel": "Cancelar",
+    "exit": "Salir",
+    "expand_all": "Expandir todo",
+    "collapse_all": "Contraer todo",
+    "install_patch": "Instalar 1850 Patch",
+    "install_update_compatibility": "Instalar / Actualizar Compatibility Mod",
+    "reset_selected": "Restablecer seleccionados",
+    "revert_patch": "Revertir 1850 Patch",
+    "save": "Guardar",
+    "scan_content": "Escanear Contenido",
+    "settings": "Configuración",
+    "update_compatibility": "Actualizar Compatibility Mod",
+    "close": "Cerrar",
+    "easy_mode": "Modo fácil",
+    "advanced_mode": "Modo avanzado"
+  },
+  "content": {
+    "no_description": "No hay una descripción del mod disponible.",
+    "vanilla_description": "Contenido Vanilla\nParte del juego base Transport Fever 3."
+  },
+  "filters": {
+    "force_rescan": "Forzar completo nuevo escaneo",
+    "only_changes": "Solo cambios",
+    "original_1850_1900": "Original 1850–1900",
+    "show_all": "Mostrar todo"
+  },
+  "game": {
+    "refresh_status": "Actualizar estado",
+    "start": "Iniciar juego"
+  },
+  "language": {
+    "current": "Idioma: {language}",
+    "name": "Español",
+    "restart_title": "Reinicio del administrador",
+    "restart_manual": "El idioma ha cambiado. Reinicia TF3 Early Start Manager.",
+    "restarting": "Reiniciando TF3 Early Start Manager…",
+    "applying": "Aplicando idioma…"
+  },
+  "mode": {
+    "advanced": "avanzado modo",
+    "easy": "fácil modo"
+  },
+  "placeholders": {
+    "mod_description": "Mod descripción",
+    "search_resources": "Buscar recursos..."
+  },
+  "preview": {
+    "analysis_only": "Solo análisis",
+    "current": "Actual",
+    "hover_hint": "Mueve el ratón sobre un recurso para ver los detalles.",
+    "modifier": "Modificador",
+    "no_preview": "Sin vista previa",
+    "original": "Original",
+    "preview_source": "Vista previa origen",
+    "primary": "Principal",
+    "related_resources": "Relacionados recursos",
+    "source": "Fuente",
+    "type": "Tipo",
+    "none_detected": "Ninguno detectado",
+    "internal_resource": "⚙ Interno recurso",
+    "required_resource": "🔒 Requerido Early Iniciar recurso",
+    "vehicle_role": "Función del vehículo: {role}",
+    "power_type": "Propulsión type: {power}",
+    "construction_templates": "Plantillas de construcción: {timeline}"
+  },
+  "resource_tree": {
+    "all": "Todos Recursos",
+    "assets": "Assets",
+    "buildings": "Edificios",
+    "depots": "Depósitos",
+    "industries": "Industrias",
+    "infrastructure": "Infrastructure",
+    "stations": "Estaciones",
+    "vehicle": "Vehículos",
+    "warehouses": "Almacenes"
+  },
+  "sections": {
+    "cache": "Caché",
+    "early_start": "Early Iniciar 1850",
+    "getting_started": "Primeros pasos",
+    "resources": "Recursos",
+    "sources": "Fuentes:",
+    "log": "Registro"
+  },
+  "settings": {
+    "clear_scan_cache": "Borrar Escanear Caché",
+    "clear_thumbnail_cache": "Borrar Thumbnail Caché",
+    "export_diagnostics": "Export Diagnostics",
+    "language": "Idioma:",
+    "open_log": "Abrir Registro",
+    "open_log_folder": "Abrir Registro Folder",
+    "path_check": "Path comprobación:",
+    "start_screen": "Pantalla inicial:",
+    "tf3_installation": "TF3 instalación:",
+    "clear_all_caches": "Borrar Todos Caches"
+  },
+  "sources": {
+    "all": "Todos",
+    "local": "Local",
+    "modio": "Mod.IO",
+    "vanilla": "Vanilla"
+  },
+  "status": {
+    "checking_content": "Checking content...",
+    "content_up_to_date": "✓ Contenido up to date",
+    "resources_count": "{count} recursos",
+    "resources_loaded_cache": "{count} recursos loaded from cache",
+    "visible_resources": "{visible} / {total} recursos",
+    "tf3_not_configured": "⚠ TF3 not configurado",
+    "patch_revalidation_required": "⚠ TF3 patch revalidation required",
+    "patch_missing": "⚠ 1850 patch falta",
+    "compatibility_update_required": "⚠ Compatibility Mod requiere update",
+    "changes_detected": "⚠ Cambios detectado",
+    "invalid_tf3_installation": "Invalid TF3 installation"
+  },
+  "table": {
+    "status": "estado",
+    "name": "Nombre",
+    "source": "Fuente",
+    "type": "Tipo",
+    "original_from": "Año inicial Vanilla",
+    "new_from": "Nuevo año inicial",
+    "original_to": "Año final Vanilla",
+    "new_to": "Nuevo año final"
+  },
+  "timeline": {
+    "from": "Desde",
+    "until": "Hasta"
+  },
+  "tooltips": {
+    "expand_all_resources": "Expandir todo recurso categories",
+    "install_patch": "Instalar the complete Early Iniciar 1850 baseline, GUI patch and Compatibility Mod",
+    "install_update_compatibility": "Actualizar the Compatibility Mod with disponibilidad cambios configurado in avanzado modo",
+    "revert_patch": "Restore the Vanilla start-year configuration and remove the Compatibility Mod",
+    "update_compatibility": "Regenerate the Compatibility Mod with the current disponibilidad cambios",
+    "collapse_all_resources": "Contraer todo recurso categories",
+    "required_1850": "Requerido for the 1850 baseline",
+    "source_status": "Quick startup comprobación for TF3 patches and instalado Mod.IO/local mod cambios",
+    "show_all_resources": "Mostrar technical, group, support and normally hidden recursos.",
+    "select_resource_file": "Selecciona the concrete recurso archivo",
+    "select_archive": "Selecciona the containing ZIP/archive",
+    "patch_missing": "TF3 is currently using the Vanilla 1900 start year. A game update may have restored gui.zip.",
+    "stale_overrides": "{count} instalado override(s) no longer match scanned recursos. Run Instalar / Actualizar Compatibility Mod to remove stale entries.",
+    "changed_sources": "Cambiado sources: {sources}. Run Escanear Contenido for an incremental update.",
+    "no_source_changes": "Sin rápidos origen-level cambios detectado since the last completed content scan"
+  },
+  "health": {
+    "backup_available": "✓ Backup: disponible",
+    "backup_missing": "○ Backup: not created",
+    "compat_installed": "✓ Compatibility mod: instalado ({count} overrides)",
+    "compat_missing": "○ Compatibility mod: not instalado",
+    "patch_changed": "⚠ Iniciar-year patch: TF3 archivos changed",
+    "patch_rebuild": "⚠ TF3 update: rebuild 1850 patch",
+    "patch_revalidate": "⚠ TF3 update: patch intact, revalidate",
+    "patch_revalidation": "⚠ Iniciar-year patch: revalidation required",
+    "patch_unavailable": "! Iniciar-year patch: unavailable",
+    "patch_unknown": "! Iniciar-year patch: unknown",
+    "patch_vanilla": "○ Iniciar-year patch: Vanilla 1900",
+    "patch_verified": "✓ Iniciar-year patch: 1850 verified",
+    "profile_missing": "○ 1850 compatibilidad: falta/incomplete",
+    "profile_ready": "✓ 1850 compatibilidad: AI traffic + constructions listo",
+    "ready": "READY — activate Compatibility mod manually in TF3",
+    "game_not_detected": "✕ Transport Fever 3: not detected",
+    "unavailable": "○ unavailable",
+    "not_ready": "NOT READY",
+    "vanilla": "VANILLA",
+    "incomplete_custom": "INCOMPLETE / CUSTOM",
+    "game_detected": "✓ Transport Fever 3 ({distribution}): {path}"
+  },
+  "dialogs": {
+    "invalid_path_title": "Sin válido ruta",
+    "invalid_tf3_path": "Selecciona una instalación válida de Transport Fever 3.",
+    "start_game_title": "Iniciar juego",
+    "scan_title": "Escanear",
+    "configure_tf3_first": "Configura the TF3 instalación in Configuración primero.",
+    "timeline_title": "Cronología",
+    "select_timeline_bounds": "Selecciona Desde and/or Hasta primero.",
+    "patch_title": "1850 Patch",
+    "open_file_location_title": "Abrir archivo location",
+    "log_title": "Registro",
+    "compatibility_title": "Compatibility Mod",
+    "compatibility_installed": "Compatibility mod instalado/updated. Activate it manually in TF3 for the desired game/preset.",
+    "install_update_failed": "Instalar / Actualizar falló:\n\n{error}",
+    "open_source_folder_title": "Abrir origen carpeta",
+    "content_scan_title": "Contenido Escanear",
+    "invalid_timeline_bounds": "End year must be unlimited or greater than or equal to start year.",
+    "patch_verification_title": "TF3 Patch Verification",
+    "patch_verification_safety": "The manager will never restore an old backup over updated TF3 files. Use Install 1850 Patch to revalidate the current version.",
+    "patch_installed": "1850 patch installed. Activate TF3 Early Start Compatibility manually for the game/preset."
+  },
+  "scan": {
+    "preparing": "Preparando el escaneo de contenido...",
+    "initial_progress": "0 / 0 ZIPs · Caché 0 · Rescanned 0 · 0 recursos",
+    "window_title": "Escaneando TF3 Contenido",
+    "cancelling": "Cancelando...",
+    "scanning": "Escaneando: {domain}",
+    "finishing": "Finalizando",
+    "progress": "{current} / {total} ZIPs · Caché {cache_hits} · Rescanned {rescanned} · {found} recursos",
+    "preparing_browser": "Preparando Resource Browser..."
+  },
+  "context": {
+    "open_file_location": "Abrir archivo location",
+    "open_source_folder": "Abrir origen carpeta",
+    "copy_file_path": "Copiar archivo ruta",
+    "copy_resource_id": "Copiar recurso ID"
+  },
+  "guide": {
+    "html": "<b>1. Instalar el parche</b><br>Instala el parche del año inicial 1850 y actualiza TF3 Early Start Compatibility.<br><br><b>2. Iniciar el juego</b><br>Inicia Transport Fever 3.<br><br><b>3. Activar el mod de compatibilidad</b><br>Activa <b>TF3 Early Start Compatibility</b> en cada partida o preajuste que use Early Start.<br><br><b>Fechas reales siempre que sea posible</b><br>Cada autor de mods puede usar años de disponibilidad históricos reales. Los vehículos ya configurados para Era A no se modifican y estarán disponibles de forma natural en una partida de 1850. Usa el <b>modo avanzado</b> cuando necesites ajustar vehículos, construcciones o mods concretos."
+  },
+  "cache": {
+    "status": "Caché de escaneo: {archives} ZIP / {resources} recursos / {scan_kb} KB\nCaché de miniaturas: {thumbnails} archivos / {thumb_mb} MB"
+  },
+  "categories": {
+    "vehicle": "Vehículos",
+    "depots": "Depósitos",
+    "stations": "Estaciones",
+    "warehouses": "Almacenes",
+    "infrastructure": "Infraestructura",
+    "buildings": "Edificios",
+    "industries": "Industrias",
+    "assets": "Objetos",
+    "air": "Aire",
+    "airships": "Dirigibles",
+    "planes": "Aviones",
+    "helicopters": "Helicópteros",
+    "rail": "Ferrocarril",
+    "trains": "Trenes",
+    "steam": "Vapor",
+    "diesel": "Diésel",
+    "electric": "Eléctrico",
+    "wagons": "Vagones",
+    "passenger": "Pasajeros",
+    "cargo": "Carga",
+    "technical": "Técnico",
+    "road": "Carretera",
+    "buses": "Autobuses",
+    "trucks": "Camiones",
+    "tram": "Tranvía",
+    "water": "Agua",
+    "other": "Otros"
+  }
+}

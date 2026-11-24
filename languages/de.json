@@ -1,0 +1,254 @@
+{
+  "meta": {
+    "language_code": "de",
+    "language_name": "Deutsch"
+  },
+  "app": {
+    "subtitle": "Early-Start-Kompatibilität, Ressourcenverfügbarkeit und Zeitleisten-Editor",
+    "version": "Version {version}"
+  },
+  "actions": {
+    "apply_selected": "Auf Auswahl anwenden",
+    "browse": "Durchsuchen...",
+    "cancel": "Abbrechen",
+    "exit": "Beenden",
+    "expand_all": "Alle aufklappen",
+    "collapse_all": "Alle zuklappen",
+    "install_patch": "1850-Patch installieren",
+    "install_update_compatibility": "Compatibility Mod installieren / aktualisieren",
+    "reset_selected": "Auswahl zurücksetzen",
+    "revert_patch": "1850-Patch zurücksetzen",
+    "save": "Speichern",
+    "scan_content": "Inhalte scannen",
+    "settings": "Einstellungen",
+    "update_compatibility": "Compatibility Mod aktualisieren",
+    "close": "Schließen",
+    "easy_mode": "Einfacher Modus",
+    "advanced_mode": "Erweiterter Modus"
+  },
+  "content": {
+    "no_description": "Keine Mod-Beschreibung verfügbar.",
+    "vanilla_description": "Vanilla-Inhalt\nTeil des Transport Fever 3-Basisspiels."
+  },
+  "filters": {
+    "force_rescan": "Vollständigen Neuscan erzwingen",
+    "only_changes": "Nur Änderungen",
+    "original_1850_1900": "Original 1850–1900",
+    "show_all": "Alle anzeigen"
+  },
+  "game": {
+    "refresh_status": "Status aktualisieren",
+    "start": "Spiel starten"
+  },
+  "language": {
+    "current": "Sprache: {language}",
+    "name": "Deutsch",
+    "restart_title": "Manager-Neustart",
+    "restart_manual": "Die Sprache wurde geändert. Bitte starte den TF3 Early Start Manager neu.",
+    "restarting": "TF3 Early Start Manager wird neu gestartet…",
+    "applying": "Sprache wird angewendet…"
+  },
+  "mode": {
+    "advanced": "Erweiterter Modus",
+    "easy": "Einfacher Modus"
+  },
+  "placeholders": {
+    "mod_description": "Mod-Beschreibung",
+    "search_resources": "Ressourcen suchen..."
+  },
+  "preview": {
+    "analysis_only": "Nur Analyse",
+    "current": "Aktuell",
+    "hover_hint": "Bewege die Maus über eine Ressource, um Details anzuzeigen.",
+    "modifier": "Modifier",
+    "no_preview": "Keine Vorschau",
+    "original": "Original",
+    "preview_source": "Vorschauquelle",
+    "primary": "Primärdatei",
+    "related_resources": "Verknüpfte Ressourcen",
+    "source": "Quelle",
+    "type": "Typ",
+    "none_detected": "Nicht erkannt",
+    "internal_resource": "⚙ Interne Ressource",
+    "required_resource": "🔒 Erforderliche Early-Start-Ressource",
+    "vehicle_role": "Fahrzeugrolle: {role}",
+    "power_type": "Antriebsart: {power}",
+    "construction_templates": "Konstruktionsvorlagen: {timeline}"
+  },
+  "resource_tree": {
+    "all": "Alle Ressourcen",
+    "assets": "Assets",
+    "buildings": "Gebäude",
+    "depots": "Depots",
+    "industries": "Industrien",
+    "infrastructure": "Infrastruktur",
+    "stations": "Stationen",
+    "vehicle": "Fahrzeuge",
+    "warehouses": "Lagerhäuser"
+  },
+  "sections": {
+    "cache": "Cache",
+    "early_start": "Early Start 1850",
+    "getting_started": "Erste Schritte",
+    "resources": "Ressourcen",
+    "sources": "Quellen:",
+    "log": "Log"
+  },
+  "settings": {
+    "clear_scan_cache": "Scan-Cache löschen",
+    "clear_thumbnail_cache": "Thumbnail-Cache löschen",
+    "export_diagnostics": "Diagnose exportieren",
+    "language": "Sprache:",
+    "open_log": "Log öffnen",
+    "open_log_folder": "Log-Ordner öffnen",
+    "path_check": "Pfadprüfung:",
+    "start_screen": "Startansicht:",
+    "tf3_installation": "TF3-Installation:",
+    "clear_all_caches": "Alle Caches löschen"
+  },
+  "sources": {
+    "all": "Alle",
+    "local": "Lokal",
+    "modio": "Mod.IO",
+    "vanilla": "Vanilla"
+  },
+  "status": {
+    "checking_content": "Inhalte werden geprüft...",
+    "content_up_to_date": "✓ Inhalte aktuell",
+    "resources_count": "{count} Ressourcen",
+    "resources_loaded_cache": "{count} Ressourcen aus Cache geladen",
+    "visible_resources": "{visible} / {total} Ressourcen",
+    "tf3_not_configured": "⚠ TF3 nicht konfiguriert",
+    "patch_revalidation_required": "⚠ TF3-Patch muss erneut geprüft werden",
+    "patch_missing": "⚠ 1850-Patch fehlt",
+    "compatibility_update_required": "⚠ Compatibility Mod muss aktualisiert werden",
+    "changes_detected": "⚠ Änderungen erkannt",
+    "invalid_tf3_installation": "Ungültige TF3-Installation"
+  },
+  "table": {
+    "status": "Status",
+    "name": "Name",
+    "source": "Quelle",
+    "type": "Typ",
+    "original_from": "Vanilla Startjahr",
+    "new_from": "Neues Startjahr",
+    "original_to": "Vanilla Endjahr",
+    "new_to": "Neues Endjahr"
+  },
+  "timeline": {
+    "from": "Von",
+    "until": "Bis"
+  },
+  "tooltips": {
+    "expand_all_resources": "Alle Ressourcenkategorien aufklappen",
+    "install_patch": "Installiert die vollständige Early-Start-1850-Basis, den GUI-Patch und die Compatibility Mod",
+    "install_update_compatibility": "Aktualisiert die Compatibility Mod mit den im erweiterten Modus konfigurierten Verfügbarkeitsänderungen",
+    "revert_patch": "Stellt die Vanilla-Startjahr-Konfiguration wieder her und entfernt die Compatibility Mod",
+    "update_compatibility": "Erzeugt die Compatibility Mod mit den aktuellen Verfügbarkeitsänderungen neu",
+    "collapse_all_resources": "Alle Ressourcenkategorien zuklappen",
+    "required_1850": "Für die 1850-Basis erforderlich",
+    "source_status": "Schnellprüfung auf TF3-Patches und Änderungen an installierten Mod.IO-/lokalen Mods",
+    "show_all_resources": "Zeigt technische, Gruppen-, Support- und normalerweise ausgeblendete Ressourcen an.",
+    "select_resource_file": "Die konkrete Ressourcendatei im Explorer auswählen",
+    "select_archive": "Das enthaltene ZIP-Archiv im Explorer auswählen",
+    "patch_missing": "TF3 verwendet aktuell das Vanilla-Startjahr 1900. Möglicherweise hat ein Spielupdate die gui.zip wiederhergestellt.",
+    "stale_overrides": "{count} installierte Überschreibung(en) stimmen nicht mehr mit den gescannten Ressourcen überein. Aktualisiere die Compatibility Mod, um veraltete Einträge zu entfernen.",
+    "changed_sources": "Geänderte Quellen: {sources}. Führe „Inhalte scannen“ für eine inkrementelle Aktualisierung aus.",
+    "no_source_changes": "Seit dem letzten vollständigen Inhaltsscan wurden keine Änderungen auf Quellenebene erkannt."
+  },
+  "health": {
+    "backup_available": "✓ Backup: verfügbar",
+    "backup_missing": "○ Backup: noch nicht erstellt",
+    "compat_installed": "✓ Compatibility Mod: installiert ({count} Overrides)",
+    "compat_missing": "○ Compatibility Mod: nicht installiert",
+    "patch_changed": "⚠ Startjahr-Patch: TF3-Dateien geändert",
+    "patch_rebuild": "⚠ TF3-Update: 1850-Patch neu erstellen",
+    "patch_revalidate": "⚠ TF3-Update: Patch intakt, erneut prüfen",
+    "patch_revalidation": "⚠ Startjahr-Patch: erneute Prüfung erforderlich",
+    "patch_unavailable": "! Startjahr-Patch: nicht verfügbar",
+    "patch_unknown": "! Startjahr-Patch: unbekannt",
+    "patch_vanilla": "○ Startjahr-Patch: Vanilla 1900",
+    "patch_verified": "✓ Startjahr-Patch: 1850 verifiziert",
+    "profile_missing": "○ 1850-Kompatibilität: fehlt/unvollständig",
+    "profile_ready": "✓ 1850-Kompatibilität: KI-Verkehr + Konstruktionen bereit",
+    "ready": "BEREIT — Compatibility Mod in TF3 manuell aktivieren",
+    "game_not_detected": "✕ Transport Fever 3: nicht erkannt",
+    "unavailable": "○ nicht verfügbar",
+    "not_ready": "NICHT BEREIT",
+    "vanilla": "VANILLA",
+    "incomplete_custom": "UNVOLLSTÄNDIG / BENUTZERDEFINIERT",
+    "game_detected": "✓ Transport Fever 3 ({distribution}): {path}"
+  },
+  "dialogs": {
+    "invalid_path_title": "Ungültiger Pfad",
+    "invalid_tf3_path": "Wähle eine gültige Transport-Fever-3-Installation aus.",
+    "start_game_title": "Spiel starten",
+    "scan_title": "Scan",
+    "configure_tf3_first": "Konfiguriere zuerst die TF3-Installation in den Einstellungen.",
+    "timeline_title": "Zeitleiste",
+    "select_timeline_bounds": "Wähle zuerst „Von“ und/oder „Bis“ aus.",
+    "patch_title": "1850-Patch",
+    "open_file_location_title": "Dateispeicherort öffnen",
+    "log_title": "Log",
+    "compatibility_title": "Compatibility Mod",
+    "compatibility_installed": "Die Compatibility Mod wurde installiert bzw. aktualisiert. Aktiviere sie manuell in TF3 für das gewünschte Spiel oder Preset.",
+    "install_update_failed": "Installation / Aktualisierung fehlgeschlagen:\n\n{error}",
+    "open_source_folder_title": "Quellordner öffnen",
+    "content_scan_title": "Inhaltsscan",
+    "invalid_timeline_bounds": "Das Endjahr muss unbegrenzt oder größer als beziehungsweise gleich dem Startjahr sein.",
+    "patch_verification_title": "TF3-Patch-Prüfung",
+    "patch_verification_safety": "Der Manager stellt niemals ein altes Backup über aktualisierte TF3-Dateien wieder her. Installiere den 1850-Patch erneut, um die aktuelle Version zu validieren.",
+    "patch_installed": "1850-Patch installiert. Aktiviere TF3 Early Start Compatibility manuell für das Spiel oder Preset."
+  },
+  "scan": {
+    "preparing": "Inhaltsscan wird vorbereitet...",
+    "initial_progress": "0 / 0 ZIPs · Cache 0 · Neu gescannt 0 · 0 Ressourcen",
+    "window_title": "TF3-Inhalte werden gescannt",
+    "cancelling": "Abbruch läuft...",
+    "scanning": "Scan: {domain}",
+    "finishing": "Abschluss",
+    "progress": "{current} / {total} ZIPs · Cache {cache_hits} · Neu gescannt {rescanned} · {found} Ressourcen",
+    "preparing_browser": "Ressourcenbrowser wird vorbereitet..."
+  },
+  "context": {
+    "open_file_location": "Dateispeicherort öffnen",
+    "open_source_folder": "Quellordner öffnen",
+    "copy_file_path": "Dateipfad kopieren",
+    "copy_resource_id": "Ressourcen-ID kopieren"
+  },
+  "guide": {
+    "html": "<b>1. Patch installieren</b><br>Installiert den 1850-Startjahr-Patch und aktualisiert TF3 Early Start Compatibility.<br><br><b>2. Spiel starten</b><br>Startet Transport Fever 3.<br><br><b>3. Compatibility Mod aktivieren</b><br>Aktiviere <b>TF3 Early Start Compatibility</b> für jedes Spiel oder Preset, das Early Start verwendet.<br><br><b>Reale Daten, wann immer möglich</b><br>Jeder Mod-Autor kann reale historische Verfügbarkeitsjahre verwenden. Bereits für Era A konfigurierte Fahrzeuge bleiben unverändert und sind in einem 1850-Spiel automatisch verfügbar. Nutze den <b>erweiterten Modus</b>, wenn einzelne Fahrzeuge, Konstruktionen oder Mods angepasst werden müssen."
+  },
+  "cache": {
+    "status": "Scan-Cache: {archives} ZIPs / {resources} Ressourcen / {scan_kb} KB\nThumbnail-Cache: {thumbnails} Dateien / {thumb_mb} MB"
+  },
+  "categories": {
+    "vehicle": "Fahrzeuge",
+    "depots": "Depots",
+    "stations": "Stationen",
+    "warehouses": "Lagerhäuser",
+    "infrastructure": "Infrastruktur",
+    "buildings": "Gebäude",
+    "industries": "Industrien",
+    "assets": "Assets",
+    "air": "Luft",
+    "airships": "Luftschiffe",
+    "planes": "Flugzeuge",
+    "helicopters": "Hubschrauber",
+    "rail": "Schiene",
+    "trains": "Züge",
+    "steam": "Dampf",
+    "diesel": "Diesel",
+    "electric": "Elektrisch",
+    "wagons": "Waggons",
+    "passenger": "Personen",
+    "cargo": "Güter",
+    "technical": "Technisch",
+    "road": "Straße",
+    "buses": "Busse",
+    "trucks": "LKW",
+    "tram": "Straßenbahn",
+    "water": "Wasser",
+    "other": "Sonstige"
+  }
+}
