@@ -11,11 +11,15 @@ TF3 Early Start Manager is a community tool for players who want to begin Transp
 
 ## Screenshots
 
-screenshots/tf3esm_easymode.jpg
+### Easy Mode
 
-screenshots/tf3esm_advmode.jpg
+<img src="screenshots/tf3esm_easymode.jpg" width="900" alt="TF3 Early Start Manager - Easy Mode">
 
-screenshots/tf3esm_advmode_2.jpg
+### Advanced Mode
+
+<img src="screenshots/tf3esm_advmode.jpg" width="900" alt="TF3 Early Start Manager - Advanced Mode">
+
+<img src="screenshots/tf3esm_advmode_2.jpg" width="900" alt="TF3 Early Start Manager - Advanced Mode 2">
 
 ## Jump To
 
