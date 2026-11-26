@@ -9,6 +9,16 @@ TF3 Early Start Manager is a community tool for players who want to begin Transp
 > **Tested with:** Transport Fever 3 on Steam  
 > **License:** GNU GPL v3.0
 
+## Screenshots
+
+screenshots/tf3esm_easymode.jpg
+
+screenshots/tf3esm_advmode.jpg
+
+screenshots/tf3esm_advmode_2.jpg
+
+## Jump To
+
 [English](#english) | [Deutsch](#deutsch)
 
 ---
